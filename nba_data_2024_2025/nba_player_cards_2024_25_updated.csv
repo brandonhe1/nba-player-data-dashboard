@@ -1,0 +1,535 @@
+Player,Team,Position,Height,Weight,Age,School,PPG,RPG,APG,SPG,BPG,Headshot_URL
+Jacob Toppin,Atlanta Hawks,F,6-8,200,25.0,Kentucky,0.4,0.7,0.2,0.1,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1631210.png
+Jalen Johnson,Atlanta Hawks,F,6-8,219,23.0,Duke,18.9,10.0,5.0,1.6,1.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1630552.png
+Keaton Wallace,Atlanta Hawks,G,6-3,185,26.0,Texas-San Antonio,5.4,1.6,2.6,0.9,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1630811.png
+Caris LeVert,Atlanta Hawks,G,6-6,205,30.0,Michigan,10.2,2.8,3.7,0.9,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/1627747.png
+Kobe Bufkin,Atlanta Hawks,G,6-4,195,21.0,Michigan,5.3,2.1,1.7,0.3,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1641723.png
+Dyson Daniels,Atlanta Hawks,G,6-7,199,22.0,NBA G League Ignite,14.1,5.9,4.4,3.0,0.7,https://cdn.nba.com/headshots/nba/latest/1040x760/1630700.png
+Zaccharie Risacher,Atlanta Hawks,F,6-8,200,20.0,JL Bourg-en-Bresse,12.6,3.6,1.2,0.7,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/1642258.png
+Trae Young,Atlanta Hawks,G,6-1,164,26.0,Oklahoma,24.2,3.1,11.6,1.2,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1629027.png
+Terance Mann,Atlanta Hawks,G-F,6-5,215,28.0,Florida State,6.0,2.9,1.6,0.8,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1629611.png
+Clint Capela,Atlanta Hawks,C,6-10,256,31.0,Elan Chalon,8.9,8.5,1.1,0.6,1.0,https://cdn.nba.com/headshots/nba/latest/1040x760/203991.png
+Onyeka Okongwu,Atlanta Hawks,F-C,6-10,240,24.0,Southern California,13.4,8.9,2.3,0.9,0.9,https://cdn.nba.com/headshots/nba/latest/1040x760/1630168.png
+Mouhamed Gueye,Atlanta Hawks,F,6-10,210,22.0,Washington State,6.0,4.2,0.8,0.8,1.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1631243.png
+Georges Niang,Atlanta Hawks,F,6-7,230,32.0,Iowa State,8.7,3.7,1.3,0.3,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1627777.png
+Larry Nance Jr.,Atlanta Hawks,F-C,6-8,245,32.0,Wyoming,8.5,4.3,1.6,0.8,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/1626204.png
+Garrison Mathews,Atlanta Hawks,G,6-6,215,28.0,Lipscomb,7.5,1.9,1.3,0.6,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1629726.png
+Dominick Barlow,Atlanta Hawks,F,6-8,215,22.0,Overtime Elite,4.2,2.4,0.5,0.3,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/1631230.png
+Vít Krejčí,Atlanta Hawks,G,6-8,195,25.0,Zaragoza,7.2,2.7,2.6,0.6,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/1630249.png
+Daeqwon Plowden,Atlanta Hawks,G-F,6-6,216,26.0,Bowling Green,7.2,1.8,0.3,0.0,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1631342.png
+Jayson Tatum,Boston Celtics,F-G,6-8,210,27.0,Duke,26.8,8.7,6.0,1.1,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/1628369.png
+Miles Norris,Boston Celtics,F,6-7,220,25.0,Cal-Santa Barbara,2.3,3.0,0.0,0.7,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1641936.png
+Jrue Holiday,Boston Celtics,G,6-4,205,35.0,UCLA,11.1,4.3,3.9,1.1,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/201950.png
+Jaylen Brown,Boston Celtics,G-F,6-6,223,28.0,California,22.2,5.8,4.5,1.2,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1627759.png
+Kristaps Porziņģis,Boston Celtics,F-C,7-2,240,29.0,Cajasol Sevilla,19.5,6.8,2.1,0.7,1.5,https://cdn.nba.com/headshots/nba/latest/1040x760/204001.png
+Derrick White,Boston Celtics,G,6-4,190,30.0,Colorado,16.4,4.5,4.8,0.9,1.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1628401.png
+Payton Pritchard,Boston Celtics,G,6-1,195,27.0,Oregon,14.3,3.8,3.5,0.9,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1630202.png
+Torrey Craig,Boston Celtics,F,6-5,221,34.0,South Carolina Upstate,6.9,2.8,0.6,0.2,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1628470.png
+Drew Peterson,Boston Celtics,F,6-9,205,25.0,Southern California,2.2,1.6,0.5,0.2,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1641809.png
+JD Davison,Boston Celtics,G,6-1,195,22.0,Alabama,2.1,0.8,0.8,0.3,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1631120.png
+Xavier Tillman,Boston Celtics,F,6-7,245,26.0,Michigan State,1.0,1.3,0.2,0.3,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1630214.png
+Jordan Walsh,Boston Celtics,G,6-6,205,21.0,Arkansas,1.6,1.3,0.4,0.2,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1641775.png
+Sam Hauser,Boston Celtics,F,6-7,217,27.0,Virginia,8.5,3.2,0.9,0.6,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1630573.png
+Luke Kornet,Boston Celtics,C-F,7-1,250,29.0,Vanderbilt,6.0,5.3,1.6,0.5,1.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1628436.png
+Al Horford,Boston Celtics,C-F,6-9,240,39.0,Florida,9.0,6.2,2.1,0.6,0.8,https://cdn.nba.com/headshots/nba/latest/1040x760/201143.png
+Baylor Scheierman,Boston Celtics,G,6-6,205,24.0,Creighton,3.6,2.1,1.1,0.5,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1631248.png
+Neemias Queta,Boston Celtics,C,7-0,248,25.0,Utah State,5.0,3.8,0.7,0.3,0.7,https://cdn.nba.com/headshots/nba/latest/1040x760/1629674.png
+Max Strus,Cleveland Cavaliers,G-F,6-5,215,29.0,DePaul,9.4,4.3,3.2,0.5,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1629622.png
+Ty Jerome,Cleveland Cavaliers,G-F,6-5,195,27.0,Virginia,12.5,2.5,3.4,1.1,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1629660.png
+Evan Mobley,Cleveland Cavaliers,C,6-11,215,24.0,Southern California,18.5,9.3,3.2,0.9,1.6,https://cdn.nba.com/headshots/nba/latest/1040x760/1630596.png
+Sam Merrill,Cleveland Cavaliers,G,6-4,205,29.0,Utah State,7.2,2.2,1.5,0.7,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1630241.png
+Javonte Green,Cleveland Cavaliers,G,6-5,205,31.0,Radford,5.8,3.6,0.9,1.1,0.6,https://cdn.nba.com/headshots/nba/latest/1040x760/1629750.png
+Craig Porter Jr.,Cleveland Cavaliers,G,6-1,180,25.0,Wichita State,3.7,1.3,1.4,0.3,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1641854.png
+Darius Garland,Cleveland Cavaliers,G,6-1,192,25.0,Vanderbilt,20.6,2.9,6.7,1.2,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1629636.png
+De'Andre Hunter,Cleveland Cavaliers,F-G,6-8,221,27.0,Virginia,19.0,3.9,1.5,0.8,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1629631.png
+Tristan Thompson,Cleveland Cavaliers,C-F,6-9,254,34.0,Texas-Austin,1.7,3.4,0.6,0.0,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/202684.png
+Chuma Okeke,Cleveland Cavaliers,F,6-7,229,26.0,Auburn,6.9,6.1,1.9,0.7,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1629643.png
+Emoni Bates,Cleveland Cavaliers,F,6-8,202,21.0,Eastern Michigan,3.7,0.7,0.8,0.1,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1641734.png
+Jaylon Tyson,Cleveland Cavaliers,G-F,6-6,215,22.0,California,3.6,2.0,0.9,0.3,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1642281.png
+Nae'Qwan Tomlin,Cleveland Cavaliers,F,6-10,210,24.0,Memphis,7.2,4.2,0.4,0.0,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1641772.png
+Jarrett Allen,Cleveland Cavaliers,C,6-9,243,27.0,Texas,13.5,9.7,1.9,0.9,0.9,https://cdn.nba.com/headshots/nba/latest/1040x760/1628386.png
+Dean Wade,Cleveland Cavaliers,F-C,6-9,228,28.0,Kansas State,5.4,4.2,1.3,0.7,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1629731.png
+Luke Travers,Cleveland Cavaliers,F,6-7,207,23.0,Rockingham Flames (Aus.),1.0,1.7,0.7,0.1,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1631247.png
+Isaac Okoro,Cleveland Cavaliers,F-G,6-5,225,24.0,Auburn,6.1,2.4,1.2,0.6,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1630171.png
+Donovan Mitchell,Cleveland Cavaliers,G,6-3,215,28.0,Louisville,24.0,4.5,5.0,1.3,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1628378.png
+Keion Brooks Jr.,New Orleans Pelicans,F,6-7,210,24.0,Washington,10.1,4.1,0.9,0.7,0.7,https://cdn.nba.com/headshots/nba/latest/1040x760/1631232.png
+Bruce Brown,New Orleans Pelicans,G-F,6-4,202,28.0,Miami,8.4,3.8,1.6,0.9,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1628971.png
+Zion Williamson,New Orleans Pelicans,F,6-6,284,24.0,Duke,24.6,7.2,5.3,1.2,0.9,https://cdn.nba.com/headshots/nba/latest/1040x760/1629627.png
+Herbert Jones,New Orleans Pelicans,F,6-7,206,26.0,Alabama,10.2,3.9,3.2,1.8,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1630529.png
+CJ McCollum,New Orleans Pelicans,G,6-3,190,33.0,Lehigh,21.1,3.8,4.1,0.8,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/203468.png
+Elfrid Payton,New Orleans Pelicans,G,6-3,195,31.0,Louisana-Lafayette,1.0,2.2,3.3,1.0,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/203901.png
+Dejounte Murray,New Orleans Pelicans,G,6-4,180,28.0,Washington,17.5,6.5,7.4,2.0,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1627749.png
+Jamal Cain,New Orleans Pelicans,F,6-6,191,26.0,Oakland,5.3,2.3,0.6,0.6,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1631288.png
+Brandon Boston,New Orleans Pelicans,G,6-6,188,23.0,Kentucky,10.7,3.2,2.2,1.3,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1630527.png
+Antonio Reeves,New Orleans Pelicans,G,6-5,205,24.0,Kentucky,6.9,1.4,0.9,0.5,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1641810.png
+Kelly Olynyk,New Orleans Pelicans,F-C,6-11,240,34.0,Gonzaga,7.1,3.7,2.3,0.7,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/203482.png
+Jose Alvarado,New Orleans Pelicans,G,6-0,179,27.0,Georgia Tech,10.3,2.4,4.6,1.3,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1630631.png
+Karlo Matković,New Orleans Pelicans,F-C,6-10,231,24.0,Mega Basket,7.7,5.0,1.1,0.5,1.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1631255.png
+Yves Missi,New Orleans Pelicans,C,6-11,235,21.0,Baylor,9.1,8.2,1.4,0.5,1.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1642274.png
+Lester Quinones,New Orleans Pelicans,G,6-4,208,24.0,Memphis,2.2,1.0,0.2,0.0,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1631311.png
+Jordan Hawkins,New Orleans Pelicans,G,6-5,190,23.0,Connecticut,10.8,2.8,1.2,0.5,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1641722.png
+Trey Murphy III,New Orleans Pelicans,F,6-8,206,25.0,Virginia,21.2,5.1,3.5,1.1,0.7,https://cdn.nba.com/headshots/nba/latest/1040x760/1630530.png
+Jeremiah Robinson-Earl,New Orleans Pelicans,F,6-8,240,24.0,Villanova,6.3,4.8,1.3,0.6,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1630526.png
+Coby White,Chicago Bulls,G,6-5,195,25.0,North Carolina,20.4,3.7,4.5,0.9,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1629632.png
+Lonzo Ball,Chicago Bulls,G,6-6,190,27.0,UCLA,7.6,3.4,3.3,1.3,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/1628366.png
+Josh Giddey,Chicago Bulls,G,6-8,216,22.0,NBA Global Academy,14.6,8.1,7.2,1.2,0.6,https://cdn.nba.com/headshots/nba/latest/1040x760/1630581.png
+Jevon Carter,Chicago Bulls,G,6-1,200,29.0,West Virginia,4.2,1.1,1.1,0.4,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1628975.png
+Jalen Smith,Chicago Bulls,F-C,6-9,215,25.0,Maryland,8.2,5.6,1.0,0.3,0.7,https://cdn.nba.com/headshots/nba/latest/1040x760/1630188.png
+Nikola Vučević,Chicago Bulls,C,6-10,260,34.0,Southern California,18.5,10.1,3.5,0.8,0.7,https://cdn.nba.com/headshots/nba/latest/1040x760/202696.png
+Ayo Dosunmu,Chicago Bulls,G,6-5,200,25.0,Illinois,12.3,3.5,4.5,0.9,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1630245.png
+Jahmir Young,Chicago Bulls,G,6-1,185,24.0,Maryland,1.8,0.5,1.0,0.0,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1642443.png
+Zach Collins,Chicago Bulls,F-C,6-11,250,27.0,Gonzaga,4.6,2.8,1.4,0.4,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1628380.png
+Kevin Huerter,Chicago Bulls,G-F,6-7,198,26.0,Maryland,7.9,2.8,1.7,0.8,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1628989.png
+Matas Buzelis,Chicago Bulls,F,6-10,209,20.0,NBA G League Ignite,8.6,3.5,1.0,0.4,0.9,https://cdn.nba.com/headshots/nba/latest/1040x760/1641824.png
+Julian Phillips,Chicago Bulls,F,6-8,198,21.0,Tennessee,4.6,2.1,0.5,0.5,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1641763.png
+Emanuel Miller,Chicago Bulls,F,6-7,215,25.0,TCU,1.7,1.3,0.3,0.2,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1641801.png
+Talen Horton-Tucker,Chicago Bulls,G,6-4,234,24.0,Iowa State,6.5,1.7,1.4,0.4,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1629659.png
+Dalen Terry,Chicago Bulls,F,6-7,195,22.0,Arizona,4.5,1.7,1.3,0.6,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1631207.png
+Tre Jones,Chicago Bulls,G,6-1,185,25.0,Duke,4.4,2.1,3.7,0.6,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1630200.png
+E.J. Liddell,Chicago Bulls,F,6-6,240,24.0,Ohio State,1.8,0.8,0.2,0.1,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1630604.png
+Patrick Williams,Chicago Bulls,F,6-7,215,23.0,Florida State,9.0,3.8,2.0,0.8,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/1630172.png
+Danté Exum,Dallas Mavericks,G,6-5,214,29.0,Australian Institute of Sport,8.7,1.6,2.8,0.6,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/203957.png
+Max Christie,Dallas Mavericks,G,6-5,190,22.0,Michigan State,8.5,2.7,1.4,0.8,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/1631108.png
+Jaden Hardy,Dallas Mavericks,G,6-3,198,22.0,NBA G League Ignite,8.7,1.6,1.4,0.5,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1630702.png
+Dereck Lively II,Dallas Mavericks,C,7-1,230,21.0,Duke,8.7,7.5,2.4,0.6,1.6,https://cdn.nba.com/headshots/nba/latest/1040x760/1641726.png
+Anthony Davis,Dallas Mavericks,F-C,6-10,253,32.0,Kentucky,25.7,11.9,3.4,1.3,2.1,https://cdn.nba.com/headshots/nba/latest/1040x760/203076.png
+Dwight Powell,Dallas Mavericks,F-C,6-10,240,33.0,Stanford,2.1,2.1,1.0,0.3,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/203939.png
+Olivier-Maxence Prosper,Dallas Mavericks,F,6-7,230,22.0,Marquette,3.9,2.4,0.8,0.5,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1641765.png
+Brandon Williams,Dallas Mavericks,G,6-1,190,25.0,Arizona,8.3,1.8,2.3,0.7,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1630314.png
+Kyrie Irving,Dallas Mavericks,G,6-2,195,33.0,Duke,24.7,4.8,4.6,1.3,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/202681.png
+Naji Marshall,Dallas Mavericks,F,6-6,220,27.0,Xavier,13.2,4.8,3.0,1.0,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1630230.png
+Caleb Martin,Dallas Mavericks,F,6-5,205,29.0,Nevada,9.1,4.4,2.2,1.1,0.6,https://cdn.nba.com/headshots/nba/latest/1040x760/1628997.png
+Kessler Edwards,Dallas Mavericks,F,6-7,203,24.0,Pepperdine,4.2,2.9,1.0,0.5,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/1630556.png
+Daniel Gafford,Dallas Mavericks,F-C,6-10,265,26.0,Arkansas,12.3,6.8,1.4,0.4,1.8,https://cdn.nba.com/headshots/nba/latest/1040x760/1629655.png
+Kai Jones,Dallas Mavericks,C-F,6-11,221,24.0,Texas,2.2,1.6,0.4,0.2,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/1630539.png
+P.J. Washington,Dallas Mavericks,F,6-6,230,26.0,Kentucky,14.7,7.8,2.3,1.1,1.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1629023.png
+Spencer Dinwiddie,Dallas Mavericks,G,6-5,215,32.0,Colorado,11.0,2.6,4.4,0.9,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/203915.png
+Klay Thompson,Dallas Mavericks,G,6-5,220,35.0,Washington State,14.0,3.4,2.0,0.7,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/202691.png
+Christian Braun,Denver Nuggets,G,6-6,220,24.0,Kansas,15.4,5.2,2.6,1.1,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/1631128.png
+Michael Porter Jr.,Denver Nuggets,F,6-10,218,27.0,Missouri,18.2,7.0,2.1,0.6,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/1629008.png
+Julian Strawther,Denver Nuggets,G,6-6,205,23.0,Gonzaga,9.0,2.2,1.3,0.6,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1631124.png
+Russell Westbrook,Denver Nuggets,G,6-4,200,36.0,UCLA,13.3,4.9,6.1,1.4,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/201566.png
+Hunter Tyson,Denver Nuggets,F,6-8,215,25.0,Clemson,2.6,1.5,0.4,0.2,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1641816.png
+DeAndre Jordan,Denver Nuggets,C,6-11,265,36.0,Texas A&M,3.7,5.1,0.9,0.3,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/201599.png
+Peyton Watson,Denver Nuggets,G,6-7,200,22.0,UCLA,8.1,3.4,1.4,0.7,1.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1631212.png
+Dario Šarić,Denver Nuggets,F-C,6-10,225,31.0,Anadolu Efes,3.5,3.1,1.4,0.4,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/203967.png
+PJ Hall,Denver Nuggets,C,6-10,245,23.0,Clemson,1.7,1.2,0.2,0.0,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1641790.png
+DaRon Holmes II,Denver Nuggets,F,6-10,225,22.0,Dayton,0.0,0.0,0.0,0.0,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1641747.png
+Nikola Jokić,Denver Nuggets,C,6-11,284,30.0,Mega Basket,29.6,12.7,10.2,1.8,0.6,https://cdn.nba.com/headshots/nba/latest/1040x760/203999.png
+Spencer Jones,Denver Nuggets,F,6-7,225,24.0,Stanford,1.3,0.8,0.2,0.2,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1642461.png
+Zeke Nnaji,Denver Nuggets,F-C,6-9,240,24.0,Arizona,3.2,1.6,0.4,0.4,0.7,https://cdn.nba.com/headshots/nba/latest/1040x760/1630192.png
+Trey Alexander,Denver Nuggets,G,6-4,185,22.0,Creighton,1.3,0.5,0.5,0.1,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1641725.png
+Jalen Pickett,Denver Nuggets,G,6-2,202,25.0,Penn State,4.1,1.4,2.2,0.4,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1629618.png
+Jamal Murray,Denver Nuggets,G,6-4,215,28.0,Kentucky,21.4,3.9,6.0,1.4,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/1627750.png
+Vlatko Čančar,Denver Nuggets,F,6-8,236,28.0,San Pablo Burgos,1.8,2.5,0.7,0.2,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1628427.png
+Aaron Gordon,Denver Nuggets,F,6-8,235,29.0,Arizona,14.7,4.8,3.2,0.5,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/203932.png
+Gary Payton II,Golden State Warriors,G,6-2,195,32.0,Oregon State,6.5,3.0,1.3,0.8,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1627780.png
+Jonathan Kuminga,Golden State Warriors,F,6-7,225,22.0,NBA G League Ignite,15.3,4.6,2.2,0.8,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1630228.png
+Taran Armstrong,Golden State Warriors,G,6-5,190,23.0,"Cairns, Australia",0.0,0.0,0.0,0.0,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1642379.png
+Brandin Podziemski,Golden State Warriors,G,6-4,205,22.0,Santa Clara,11.7,5.1,3.4,1.1,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1641764.png
+Moses Moody,Golden State Warriors,G,6-5,211,23.0,Arkansas,9.8,2.6,1.3,0.8,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1630541.png
+Kevon Looney,Golden State Warriors,F,6-9,222,29.0,UCLA,4.5,6.1,1.6,0.6,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/1626172.png
+Buddy Hield,Golden State Warriors,G,6-4,220,32.0,Oklahoma,11.1,3.2,1.6,0.8,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1627741.png
+Jimmy Butler III,Golden State Warriors,F,6-7,230,35.0,Marquette,17.0,5.2,4.8,1.1,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/202710.png
+Braxton Key,Golden State Warriors,F,6-8,225,28.0,Virginia,1.0,0.7,0.0,0.7,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1630296.png
+Gui Santos,Golden State Warriors,F,6-6,185,23.0,Minas,4.1,3.1,1.4,0.4,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1630611.png
+Quinten Post,Golden State Warriors,C,7-0,238,25.0,Boston College,8.1,3.5,1.3,0.4,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1642366.png
+Draymond Green,Golden State Warriors,F,6-6,230,35.0,Michigan State,9.0,6.1,5.6,1.5,1.0,https://cdn.nba.com/headshots/nba/latest/1040x760/203110.png
+Stephen Curry,Golden State Warriors,G,6-2,185,37.0,Davidson,24.5,4.4,6.0,1.1,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/201939.png
+Kevin Knox II,Golden State Warriors,F,6-8,215,25.0,Kentucky,3.3,1.2,0.4,0.1,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1628995.png
+Trayce Jackson-Davis,Golden State Warriors,F,6-9,245,25.0,Indiana,6.6,5.0,1.7,0.4,0.6,https://cdn.nba.com/headshots/nba/latest/1040x760/1631218.png
+Jackson Rowe,Golden State Warriors,F,6-7,210,28.0,California State-Fullerton,3.7,1.8,0.7,0.7,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1642050.png
+Pat Spencer,Golden State Warriors,G,6-3,205,28.0,Northwestern,2.5,1.2,1.2,0.4,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1630311.png
+Aaron Holiday,Houston Rockets,G,6-0,185,28.0,UCLA,5.5,1.3,1.3,0.3,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1628988.png
+Amen Thompson,Houston Rockets,G-F,6-7,200,22.0,Overtime Elite,14.1,8.2,3.8,1.4,1.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1641708.png
+Jock Landale,Houston Rockets,C,6-11,255,29.0,St. Mary's,4.8,3.3,0.9,0.3,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1629111.png
+N'Faly Dante,Houston Rockets,C,6-11,230,23.0,Oregon,6.0,5.2,0.5,0.2,1.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1642368.png
+Jalen Green,Houston Rockets,G,6-4,186,23.0,NBA G League Ignite,21.0,4.6,3.4,0.9,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1630224.png
+Fred VanVleet,Houston Rockets,G,6-0,197,31.0,Wichita State,14.1,3.7,5.6,1.6,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1627832.png
+Cam Whitmore,Houston Rockets,F,6-7,230,20.0,Villanova,9.4,3.0,1.0,0.6,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1641715.png
+Jae'Sean Tate,Houston Rockets,F,6-4,230,29.0,Ohio State,3.6,2.2,0.9,0.5,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1630256.png
+Dillon Brooks,Houston Rockets,G-F,6-6,225,29.0,Oregon,14.0,3.7,1.7,0.8,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1628415.png
+Jabari Smith Jr.,Houston Rockets,F,6-10,220,22.0,Auburn,12.2,7.0,1.1,0.4,0.7,https://cdn.nba.com/headshots/nba/latest/1040x760/1631095.png
+Steven Adams,Houston Rockets,C,6-11,265,31.0,Pittsburgh,3.9,5.6,1.1,0.4,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/203500.png
+Reed Sheppard,Houston Rockets,G,6-2,185,21.0,Kentucky,4.4,1.5,1.4,0.7,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1642263.png
+Tari Eason,Houston Rockets,F,6-8,215,24.0,Louisiana State,12.0,6.4,1.5,1.7,0.9,https://cdn.nba.com/headshots/nba/latest/1040x760/1631106.png
+Nate Williams,Houston Rockets,G,6-5,205,26.0,Buffalo,3.2,0.6,0.4,0.4,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1631466.png
+Alperen Sengun,Houston Rockets,C,6-11,243,22.0,Besiktas,19.1,10.3,4.9,1.1,0.8,https://cdn.nba.com/headshots/nba/latest/1040x760/1630578.png
+Jeff Green,Houston Rockets,F,6-8,235,38.0,Georgetown,5.4,1.8,0.6,0.2,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/201145.png
+David Roddy,Houston Rockets,F,6-4,255,24.0,Colorado State,4.5,2.6,1.1,0.4,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1631223.png
+Jack McVeigh,Houston Rockets,G-F,6-8,215,29.0,Nebraska-Lincoln,1.6,0.6,0.1,0.0,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1629098.png
+James Harden,Los Angeles Clippers,G,6-5,220,35.0,Arizona State,22.8,5.8,8.7,1.5,0.7,https://cdn.nba.com/headshots/nba/latest/1040x760/201935.png
+Kawhi Leonard,Los Angeles Clippers,F,6-7,225,34.0,San Diego State,21.5,5.9,3.1,1.6,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/202695.png
+Seth Lundy,Los Angeles Clippers,G-F,6-4,220,25.0,Penn State,0.0,0.0,0.0,0.0,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1641754.png
+Amir Coffey,Los Angeles Clippers,G-F,6-7,210,28.0,Minnesota,9.7,2.2,1.1,0.6,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1629599.png
+Kris Dunn,Los Angeles Clippers,G,6-3,205,31.0,Providence,6.4,3.4,2.8,1.7,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1627739.png
+Trentyn Flowers,Los Angeles Clippers,F,6-9,185,20.0,Adelaide,1.8,0.7,0.0,0.0,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1642280.png
+Bogdan Bogdanović,Los Angeles Clippers,G,6-5,225,32.0,Fenerbahce,10.0,2.8,2.0,0.8,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/203992.png
+Jordan Miller,Los Angeles Clippers,G,6-5,194,25.0,Miami,4.1,1.6,0.9,0.5,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1641757.png
+Cam Christie,Los Angeles Clippers,G,6-6,190,19.0,Minnesota,1.4,0.9,0.5,0.4,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1642353.png
+Drew Eubanks,Los Angeles Clippers,F-C,6-10,245,28.0,Oregon State,5.8,4.5,1.2,0.3,0.9,https://cdn.nba.com/headshots/nba/latest/1040x760/1629234.png
+Kobe Brown,Los Angeles Clippers,F,6-7,250,25.0,Missouri,1.9,1.6,0.6,0.2,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1641738.png
+Patrick Baldwin Jr.,Los Angeles Clippers,F,6-9,220,22.0,Wisconsin-Milwaukee,2.1,1.0,0.1,0.1,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1631116.png
+Norman Powell,Los Angeles Clippers,G,6-4,215,32.0,UCLA,21.8,3.2,2.1,1.2,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1626181.png
+Ben Simmons,Los Angeles Clippers,G-F,6-10,240,28.0,Louisiana State,6.2,5.2,6.9,0.8,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/1627732.png
+Nicolas Batum,Los Angeles Clippers,G-F,6-8,230,36.0,Le Mans,4.0,2.8,1.1,0.7,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/201587.png
+Ivica Zubac,Los Angeles Clippers,C,7-0,240,28.0,Mega Basket,16.8,12.6,2.7,0.7,1.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1627826.png
+Derrick Jones Jr.,Los Angeles Clippers,F,6-6,210,28.0,UNLV,10.1,3.4,0.8,1.0,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1627884.png
+Patty Mills,Los Angeles Clippers,G,6-2,180,36.0,St. Mary's,4.4,1.2,1.2,0.7,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/201988.png
+Jarred Vanderbilt,Los Angeles Lakers,F,6-8,214,26.0,Kentucky,4.1,5.1,1.1,1.0,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1629020.png
+Dalton Knecht,Los Angeles Lakers,F,6-6,215,24.0,Tennessee,9.1,2.8,0.8,0.3,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1642261.png
+Gabe Vincent,Los Angeles Lakers,G,6-2,200,29.0,California-Santa Barbara,6.4,1.3,1.4,0.7,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1629216.png
+Bronny James,Los Angeles Lakers,G,6-3,210,20.0,Southern California,2.3,0.7,0.8,0.3,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1642355.png
+Christian Koloko,Los Angeles Lakers,C,7-0,225,25.0,Arizona,2.4,2.5,0.4,0.2,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1631132.png
+Jaxson Hayes,Los Angeles Lakers,C-F,7-0,220,25.0,Texas,6.8,4.8,1.0,0.6,0.9,https://cdn.nba.com/headshots/nba/latest/1040x760/1629637.png
+Maxi Kleber,Los Angeles Lakers,F,6-10,240,33.0,Bayern Munich,3.0,2.8,1.3,0.3,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/1628467.png
+Austin Reaves,Los Angeles Lakers,G,6-5,197,27.0,Oklahoma,20.2,4.5,5.8,1.1,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1630559.png
+Dorian Finney-Smith,Los Angeles Lakers,F,6-7,220,32.0,Florida,10.4,4.6,1.6,0.9,0.6,https://cdn.nba.com/headshots/nba/latest/1040x760/1627827.png
+Shake Milton,Los Angeles Lakers,G,6-5,205,28.0,Southern Methodist,7.4,1.9,2.4,0.6,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1629003.png
+LeBron James,Los Angeles Lakers,F,6-9,250,40.0,St. Vincent-St. Mary HS (OH),24.4,7.8,8.2,1.0,0.6,https://cdn.nba.com/headshots/nba/latest/1040x760/2544.png
+Alex Len,Los Angeles Lakers,C,7-0,250,32.0,Maryland,1.4,1.8,0.8,0.2,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/203458.png
+Rui Hachimura,Los Angeles Lakers,F,6-8,230,27.0,Gonzaga,13.1,5.0,1.4,0.8,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1629060.png
+Jordan Goodwin,Los Angeles Lakers,G,6-5,215,26.0,St. Louis,5.6,3.9,1.4,1.0,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1630692.png
+Trey Jemison III,Los Angeles Lakers,C,6-11,270,25.0,Alabama-Birmingham,2.4,2.8,0.6,0.4,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1641998.png
+Luka Dončić,Los Angeles Lakers,F-G,6-6,230,26.0,Real Madrid,28.1,8.3,7.8,2.0,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1629029.png
+Markieff Morris,Los Angeles Lakers,F,6-9,245,35.0,Kansas,1.7,1.1,0.6,0.1,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/202693.png
+Isaiah Stevens,Miami Heat,G,6-0,185,24.0,Colorado State,0.0,0.7,0.0,0.3,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1641815.png
+Terry Rozier,Miami Heat,G,6-1,190,31.0,Louisville,10.6,3.7,2.6,0.6,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1626179.png
+Nikola Jović,Miami Heat,F,6-10,205,22.0,Mega Basket,10.7,3.9,2.8,0.8,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1631107.png
+Kel'el Ware,Miami Heat,C,7-0,230,21.0,Indiana,9.3,7.4,0.9,0.6,1.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1642276.png
+Josh Christopher,Miami Heat,G,6-4,215,23.0,Arizona State,2.0,0.6,0.6,0.4,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1630528.png
+Pelle Larsson,Miami Heat,G,6-5,215,24.0,Arizona,4.6,1.7,1.2,0.6,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1641796.png
+Jaime Jaquez Jr.,Miami Heat,G,6-6,225,24.0,UCLA,8.6,4.4,2.5,0.9,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1631170.png
+Dru Smith,Miami Heat,G,6-2,203,27.0,Missouri,6.2,2.6,1.6,1.5,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1630696.png
+Bam Adebayo,Miami Heat,C-F,6-9,255,27.0,Kentucky,18.1,9.6,4.3,1.3,0.7,https://cdn.nba.com/headshots/nba/latest/1040x760/1628389.png
+Tyler Herro,Miami Heat,G,6-5,195,25.0,Kentucky,23.9,5.2,5.5,0.9,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1629639.png
+Keshad Johnson,Miami Heat,F,6-7,225,24.0,Arizona,2.7,1.8,0.2,0.3,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1642352.png
+Alec Burks,Miami Heat,G,6-5,214,33.0,Colorado,7.3,2.5,1.1,0.6,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/202692.png
+Kyle Anderson,Miami Heat,F-G,6-9,230,31.0,UCLA,5.2,3.1,2.2,0.7,0.6,https://cdn.nba.com/headshots/nba/latest/1040x760/203937.png
+Andrew Wiggins,Miami Heat,F,6-7,197,30.0,Kansas,17.6,4.6,2.4,0.9,0.8,https://cdn.nba.com/headshots/nba/latest/1040x760/203952.png
+Haywood Highsmith,Miami Heat,F,6-5,220,28.0,Wheeling Jesuit,6.5,3.4,1.5,0.9,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/1629312.png
+Kevin Love,Miami Heat,F-C,6-8,251,36.0,UCLA,5.3,4.1,1.0,0.7,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/201567.png
+Davion Mitchell,Miami Heat,G,6-0,202,26.0,Baylor,6.3,1.9,4.6,0.7,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1630558.png
+Duncan Robinson,Miami Heat,F,6-7,215,31.0,Michigan,11.0,2.3,2.4,0.5,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1629130.png
+Damian Lillard,Milwaukee Bucks,G,6-2,195,34.0,Weber State,24.9,4.7,7.1,1.2,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/203081.png
+Jericho Sims,Milwaukee Bucks,C,6-10,250,26.0,Texas,1.6,3.3,0.6,0.2,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1630579.png
+Kevin Porter Jr.,Milwaukee Bucks,G-F,6-4,203,25.0,Southern California,9.3,3.6,3.2,1.0,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1629645.png
+Gary Trent Jr.,Milwaukee Bucks,G,6-5,204,26.0,Duke,11.1,2.3,1.2,1.0,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1629018.png
+Chris Livingston,Milwaukee Bucks,F,6-6,220,21.0,Kentucky,1.4,1.7,0.2,0.2,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1641753.png
+Bobby Portis,Milwaukee Bucks,F,6-10,250,30.0,Arkansas,13.9,8.4,2.1,0.7,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/1626171.png
+Brook Lopez,Milwaukee Bucks,C,7-1,282,37.0,Stanford,13.0,5.0,1.8,0.6,1.8,https://cdn.nba.com/headshots/nba/latest/1040x760/201572.png
+Taurean Prince,Milwaukee Bucks,F,6-6,218,31.0,Baylor,8.2,3.6,1.9,1.0,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1627752.png
+Ryan Rollins,Milwaukee Bucks,G,6-3,180,22.0,Toledo,6.2,1.9,1.9,0.8,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1631157.png
+Jamaree Bouyea,Milwaukee Bucks,G,6-2,180,26.0,San Francisco,3.4,1.0,2.0,0.8,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1631123.png
+Stanley Umude,Milwaukee Bucks,G,6-6,210,26.0,Arkansas,0.7,0.8,0.2,0.1,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1630649.png
+Kyle Kuzma,Milwaukee Bucks,F,6-9,221,29.0,Utah,15.2,5.8,2.5,0.6,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1628398.png
+AJ Green,Milwaukee Bucks,G,6-4,190,25.0,Northern Iowa,7.4,2.4,1.5,0.5,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1631260.png
+Tyler Smith,Milwaukee Bucks,F,6-9,224,20.0,NBA G League Ignite,2.9,1.1,0.2,0.1,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1641890.png
+Pat Connaughton,Milwaukee Bucks,G,6-5,209,32.0,Notre Dame,5.3,2.7,1.7,0.2,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1626192.png
+Giannis Antetokounmpo,Milwaukee Bucks,F,6-11,243,30.0,Filathlitikos,30.4,11.9,6.5,0.9,1.2,https://cdn.nba.com/headshots/nba/latest/1040x760/203507.png
+Pete Nance,Milwaukee Bucks,F,6-10,225,25.0,Northwestern,2.1,1.4,0.4,0.1,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1631250.png
+Andre Jackson Jr.,Milwaukee Bucks,G,6-6,209,23.0,Connecticut,3.4,2.7,1.2,0.5,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1641748.png
+Donte DiVincenzo,Minnesota Timberwolves,G,6-4,203,28.0,Villanova,11.7,3.7,3.6,1.2,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1628978.png
+Terrence Shannon Jr.,Minnesota Timberwolves,G-F,6-6,215,24.0,Illinois,4.3,1.5,1.0,0.2,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1630545.png
+Jaden McDaniels,Minnesota Timberwolves,F,6-9,185,24.0,Washington,12.2,5.7,2.0,1.3,0.9,https://cdn.nba.com/headshots/nba/latest/1040x760/1630183.png
+Rob Dillingham,Minnesota Timberwolves,G,6-3,175,20.0,Kentucky,4.5,1.0,2.0,0.4,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1642265.png
+Anthony Edwards,Minnesota Timberwolves,G,6-4,225,23.0,Georgia,27.6,5.7,4.5,1.2,0.6,https://cdn.nba.com/headshots/nba/latest/1040x760/1630162.png
+Joe Ingles,Minnesota Timberwolves,F-G,6-8,220,37.0,Maccabi Tel Aviv,0.8,0.6,1.2,0.1,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/204060.png
+Josh Minott,Minnesota Timberwolves,F,6-8,205,22.0,Memphis,2.6,1.0,0.4,0.3,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1631169.png
+Nickeil Alexander-Walker,Minnesota Timberwolves,G,6-5,205,26.0,Virginia Tech,9.4,3.2,2.7,0.6,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1629638.png
+Mike Conley,Minnesota Timberwolves,G,6-0,175,37.0,Ohio State,8.2,2.6,4.5,1.1,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/201144.png
+Naz Reid,Minnesota Timberwolves,C-F,6-9,264,25.0,Louisiana State,14.2,6.0,2.3,0.7,0.9,https://cdn.nba.com/headshots/nba/latest/1040x760/1629675.png
+Tristen Newton,Minnesota Timberwolves,G,6-5,190,24.0,Connecticut,0.6,0.0,0.2,0.0,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1641803.png
+Jesse Edwards,Minnesota Timberwolves,C,7-0,236,25.0,West Virginia,0.0,0.0,0.5,0.0,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1642399.png
+Jaylen Clark,Minnesota Timberwolves,G,6-4,205,23.0,UCLA,4.1,1.3,0.6,0.9,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1641740.png
+Rudy Gobert,Minnesota Timberwolves,C,7-1,258,33.0,Cholet,12.0,10.9,1.8,0.8,1.4,https://cdn.nba.com/headshots/nba/latest/1040x760/203497.png
+Julius Randle,Minnesota Timberwolves,F-C,6-9,250,30.0,Kentucky,18.7,7.1,4.7,0.7,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/203944.png
+Leonard Miller,Minnesota Timberwolves,F,6-10,220,21.0,NBA G League Ignite,1.5,0.8,0.0,0.2,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1631159.png
+Luka Garza,Minnesota Timberwolves,C,6-10,243,26.0,Iowa,3.5,1.4,0.3,0.2,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1630568.png
+Bones Hyland,Minnesota Timberwolves,G,6-2,169,24.0,Virginia Commonwealth,7.2,1.2,1.4,0.9,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1630538.png
+Dariq Whitehead,Brooklyn Nets,G-F,6-6,220,20.0,Duke,5.7,1.4,0.6,0.3,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1641727.png
+D'Angelo Russell,Brooklyn Nets,G,6-3,193,29.0,Ohio State,12.4,2.8,4.7,0.8,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1626156.png
+Cameron Johnson,Brooklyn Nets,F,6-8,210,29.0,North Carolina,18.8,4.3,3.4,0.9,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1629661.png
+Reece Beekman,Brooklyn Nets,G,6-3,190,23.0,Virginia,1.0,0.5,0.5,0.5,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1641736.png
+Ziaire Williams,Brooklyn Nets,F,6-9,185,23.0,Stanford,10.0,4.6,1.3,1.0,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1630533.png
+Trendon Watford,Brooklyn Nets,G-F,6-8,237,24.0,Louisiana State,10.2,3.6,2.6,0.6,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1630570.png
+Tyson Etienne,Brooklyn Nets,G,6-2,200,25.0,Wichita State,7.9,1.3,1.7,0.4,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1630623.png
+Tosan Evbuomwan,Brooklyn Nets,F,6-7,217,24.0,Princeton,9.5,4.3,2.0,0.9,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1641787.png
+Tyrese Martin,Brooklyn Nets,F,6-6,215,26.0,Connecticut,8.7,3.6,2.0,0.6,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1631213.png
+De'Anthony Melton,Brooklyn Nets,G,6-3,200,27.0,Southern California,10.3,3.3,2.8,1.2,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1629001.png
+Day'Ron Sharpe,Brooklyn Nets,C,6-9,265,23.0,North Carolina,7.9,6.6,1.8,0.8,0.8,https://cdn.nba.com/headshots/nba/latest/1040x760/1630549.png
+Noah Clowney,Brooklyn Nets,F-C,6-9,210,20.0,Alabama,9.1,3.9,0.9,0.5,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/1641730.png
+Jalen Wilson,Brooklyn Nets,F,6-6,220,24.0,Kansas,9.5,3.4,1.8,0.5,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1630592.png
+Cam Thomas,Brooklyn Nets,G,6-3,210,23.0,Louisiana State,24.0,3.3,3.8,0.6,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1630560.png
+Drew Timme,Brooklyn Nets,F,6-10,235,24.0,Gonzaga,12.1,7.2,2.2,0.4,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1631166.png
+Maxwell Lewis,Brooklyn Nets,F,6-7,215,22.0,Pepperdine,0.6,0.3,0.3,0.1,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1641721.png
+Nic Claxton,Brooklyn Nets,C,6-11,215,26.0,Georgia,10.3,7.4,2.2,0.9,1.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1629651.png
+Keon Johnson,Brooklyn Nets,G,6-5,185,23.0,Tennessee,10.6,3.8,2.2,1.0,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1630553.png
+P.J. Tucker,New York Knicks,F,6-5,245,40.0,Texas,3.0,2.7,0.0,0.3,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/200782.png
+Delon Wright,New York Knicks,G,6-5,185,33.0,Utah,2.5,1.8,1.8,0.9,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1626153.png
+MarJon Beauchamp,New York Knicks,F,6-7,199,24.0,NBA G League Ignite,2.0,1.2,0.3,0.1,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1630699.png
+Cameron Payne,New York Knicks,G,6-3,183,30.0,Murray State,6.9,1.4,2.8,0.5,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1626166.png
+Miles McBride,New York Knicks,G,6-1,195,24.0,West Virginia,9.5,2.5,2.9,1.0,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1630540.png
+Josh Hart,New York Knicks,G,6-4,215,30.0,Villanova,13.6,9.6,5.9,1.5,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1628404.png
+Pacôme Dadiet,New York Knicks,F,6-8,210,19.0,Ratiopharm Ulm,1.7,1.0,0.3,0.2,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1642359.png
+Precious Achiuwa,New York Knicks,F,6-8,243,25.0,Memphis,6.6,5.6,1.0,0.8,0.7,https://cdn.nba.com/headshots/nba/latest/1040x760/1630173.png
+OG Anunoby,New York Knicks,F-G,6-7,240,27.0,Indiana,18.0,4.8,2.2,1.5,0.9,https://cdn.nba.com/headshots/nba/latest/1040x760/1628384.png
+Kevin McCullar Jr.,New York Knicks,G,6-6,210,24.0,Kansas,1.5,2.0,0.5,0.2,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1641755.png
+Jalen Brunson,New York Knicks,G,6-2,190,28.0,Villanova,26.0,2.9,7.3,0.9,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1628973.png
+Tyler Kolek,New York Knicks,G,6-3,195,24.0,Marquette,2.0,0.7,1.7,0.3,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1642278.png
+Mitchell Robinson,New York Knicks,C-F,7-0,240,27.0,Western Kentucky,5.1,5.9,0.8,0.9,1.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1629011.png
+Mikal Bridges,New York Knicks,G-F,6-6,209,28.0,Villanova,17.6,3.2,3.7,0.9,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/1628969.png
+Anton Watson,New York Knicks,F,6-8,225,24.0,Gonzaga,0.9,0.3,0.2,0.1,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1641817.png
+Karl-Anthony Towns,New York Knicks,C-F,7-0,248,29.0,Kentucky,24.4,12.8,3.1,1.0,0.7,https://cdn.nba.com/headshots/nba/latest/1040x760/1626157.png
+Landry Shamet,New York Knicks,G,6-4,190,28.0,Wichita State,5.7,1.2,0.5,0.5,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1629013.png
+Ariel Hukporti,New York Knicks,C,6-11,246,23.0,Riesen Ludwigsburg,1.9,2.0,0.4,0.0,0.6,https://cdn.nba.com/headshots/nba/latest/1040x760/1630574.png
+Anthony Black,Orlando Magic,G,6-7,200,21.0,Arkansas,9.4,2.9,3.1,1.1,0.6,https://cdn.nba.com/headshots/nba/latest/1040x760/1641710.png
+Jonathan Isaac,Orlando Magic,F,6-10,230,27.0,Florida State,5.4,4.4,0.6,0.9,1.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1628371.png
+Caleb Houstan,Orlando Magic,G,6-8,205,22.0,Michigan,4.1,1.3,0.6,0.4,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1631216.png
+Desmond Bane,Orlando Magic,G,6-5,215,27.0,TCU,19.2,6.1,5.3,1.2,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1630217.png
+Jalen Suggs,Orlando Magic,G,6-5,205,24.0,Gonzaga,16.2,4.0,3.7,1.5,0.9,https://cdn.nba.com/headshots/nba/latest/1040x760/1630591.png
+Paolo Banchero,Orlando Magic,F,6-10,250,22.0,Duke,25.9,7.5,4.8,0.8,0.6,https://cdn.nba.com/headshots/nba/latest/1040x760/1631094.png
+Mac McClung,Orlando Magic,G,6-2,185,26.0,Texas Tech,0.0,0.5,1.5,0.0,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1630644.png
+Cory Joseph,Orlando Magic,G,6-2,200,33.0,Texas,3.5,1.5,1.4,0.5,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/202709.png
+Trevelin Queen,Orlando Magic,G,6-5,190,28.0,New Mexico State,4.9,1.7,1.2,1.0,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1630243.png
+Jett Howard,Orlando Magic,G,6-6,215,21.0,Michigan,4.4,1.2,0.7,0.2,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1641724.png
+Gary Harris,Orlando Magic,G,6-4,210,30.0,Michigan State,3.0,1.3,0.6,0.5,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/203914.png
+Moritz Wagner,Orlando Magic,F-C,6-11,245,28.0,Michigan,12.9,4.9,1.4,0.8,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1629021.png
+Franz Wagner,Orlando Magic,F,6-10,220,23.0,Michigan,24.2,5.7,4.7,1.2,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1630532.png
+Tristan da Silva,Orlando Magic,F,6-8,217,24.0,Colorado,7.2,3.3,1.5,0.4,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1641783.png
+Wendell Carter Jr.,Orlando Magic,C-F,6-10,270,26.0,Duke,9.1,7.2,2.0,0.8,0.6,https://cdn.nba.com/headshots/nba/latest/1040x760/1628976.png
+Goga Bitadze,Orlando Magic,C-F,6-10,250,25.0,Mega Basket,7.2,6.6,2.0,0.7,1.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1629048.png
+Ethan Thompson,Orlando Magic,G,6-5,195,26.0,Oregon State,0.0,0.0,0.0,0.0,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1630679.png
+Tyrese Haliburton,Indiana Pacers,G,6-5,185,25.0,Iowa State,18.6,3.5,9.2,1.4,0.7,https://cdn.nba.com/headshots/nba/latest/1040x760/1630169.png
+Bennedict Mathurin,Indiana Pacers,G-F,6-5,210,23.0,Arizona,16.1,5.3,1.9,0.7,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1631097.png
+Obi Toppin,Indiana Pacers,F,6-9,220,27.0,Dayton,10.5,4.0,1.6,0.6,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1630167.png
+Andrew Nembhard,Indiana Pacers,G-F,6-4,191,25.0,Gonzaga,10.0,3.3,5.0,1.2,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1629614.png
+Thomas Bryant,Indiana Pacers,C-F,6-10,248,27.0,Indiana,4.1,3.2,0.4,0.1,0.9,https://cdn.nba.com/headshots/nba/latest/1040x760/1628418.png
+Jarace Walker,Indiana Pacers,F,6-7,235,21.0,Houston,6.1,3.1,1.5,0.7,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1641716.png
+Enrique Freeman,Indiana Pacers,F,6-7,220,24.0,Akron,2.1,1.4,0.4,0.1,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1642402.png
+T.J. McConnell,Indiana Pacers,G,6-1,190,33.0,Arizona,9.1,2.4,4.4,1.1,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/204456.png
+RayJ Dennis,Indiana Pacers,G,6-2,180,24.0,Baylor,2.7,1.1,1.3,0.6,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1642484.png
+Johnny Furphy,Indiana Pacers,G,6-9,200,20.0,Kansas,2.1,1.4,0.4,0.4,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1642277.png
+Tony Bradley,Indiana Pacers,C-F,6-11,248,27.0,North Carolina,4.4,3.0,0.4,0.1,0.6,https://cdn.nba.com/headshots/nba/latest/1040x760/1628396.png
+James Johnson,Indiana Pacers,F,6-7,240,38.0,Wake Forest,0.7,0.5,0.3,0.0,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/201949.png
+Isaiah Jackson,Indiana Pacers,F,6-9,205,23.0,Kentucky,7.0,5.6,1.0,0.6,1.6,https://cdn.nba.com/headshots/nba/latest/1040x760/1630543.png
+Aaron Nesmith,Indiana Pacers,G-F,6-6,215,25.0,Vanderbilt,12.0,4.0,1.2,0.8,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1630174.png
+Ben Sheppard,Indiana Pacers,G,6-6,190,23.0,Belmont,5.3,2.8,1.3,0.6,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1641767.png
+Quenton Jackson,Indiana Pacers,G,6-5,173,26.0,Texas A&M,5.8,1.6,1.9,0.8,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1631245.png
+Myles Turner,Indiana Pacers,C-F,6-11,250,29.0,Texas,15.6,6.5,1.5,0.8,2.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1626167.png
+Pascal Siakam,Indiana Pacers,F,6-8,245,31.0,New Mexico State,20.2,6.9,3.4,0.9,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/1627783.png
+Tyrese Maxey,Philadelphia 76ers,G,6-2,200,24.0,Kentucky,26.3,3.3,6.1,1.8,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1630178.png
+Andre Drummond,Philadelphia 76ers,C,6-11,279,31.0,Connecticut,7.3,7.8,0.8,1.0,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/203083.png
+Quentin Grimes,Philadelphia 76ers,G,6-4,210,25.0,Houston,10.2,3.8,2.1,0.7,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1629656.png
+Kyle Lowry,Philadelphia 76ers,G,6-0,196,39.0,Villanova,3.9,1.9,2.7,0.9,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/200768.png
+Paul George,Philadelphia 76ers,F,6-8,220,35.0,Fresno State,16.2,5.3,4.3,1.8,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/202331.png
+Kelly Oubre Jr.,Philadelphia 76ers,F-G,6-8,203,29.0,Kansas,15.1,6.1,1.8,1.5,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/1626162.png
+Jeff Dowtin Jr.,Philadelphia 76ers,G,6-3,177,28.0,Rhode Island,7.0,1.5,1.9,0.6,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1630288.png
+Jared Butler,Philadelphia 76ers,G,6-3,193,24.0,Baylor,6.9,1.3,2.6,0.4,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1630215.png
+Ricky Council IV,Philadelphia 76ers,G,6-6,207,23.0,Arkansas,7.3,2.9,1.3,0.4,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1641741.png
+Lonnie Walker IV,Philadelphia 76ers,G-F,6-4,204,26.0,Miami,12.4,3.2,2.5,0.5,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1629022.png
+Jalen Hood-Schifino,Philadelphia 76ers,G,6-5,210,22.0,Indiana,2.0,0.5,0.5,0.0,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/1641720.png
+Justin Edwards,Philadelphia 76ers,F,6-7,203,21.0,Kentucky,10.1,3.4,1.6,1.0,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1642348.png
+Jared McCain,Philadelphia 76ers,G,6-3,195,21.0,Duke,15.3,2.4,2.6,0.7,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1642272.png
+Joel Embiid,Philadelphia 76ers,C-F,7-0,280,31.0,Kansas,23.8,8.2,4.5,0.7,0.9,https://cdn.nba.com/headshots/nba/latest/1040x760/203954.png
+Eric Gordon,Philadelphia 76ers,G,6-3,215,36.0,Indiana,6.8,1.2,1.7,0.7,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/201569.png
+Guerschon Yabusele,Philadelphia 76ers,F,6-8,265,29.0,"Rouen, France",11.0,5.6,2.1,0.8,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1627824.png
+Adem Bona,Philadelphia 76ers,F,6-10,235,22.0,UCLA,5.8,4.2,0.5,0.4,1.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1641737.png
+Alex Reese,Philadelphia 76ers,F-C,6-9,245,26.0,Alabama,2.0,1.0,0.0,0.0,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1642024.png
+Royce O'Neale,Phoenix Suns,F,6-6,226,32.0,Baylor,9.1,4.7,2.2,0.9,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1626220.png
+Ryan Dunn,Phoenix Suns,F,6-8,216,22.0,Virginia,6.9,3.6,0.8,0.6,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/1642346.png
+Devin Booker,Phoenix Suns,G,6-6,206,28.0,Kentucky,25.6,4.1,7.1,0.9,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1626164.png
+Nick Richards,Phoenix Suns,C,7-0,245,27.0,Kentucky,8.9,7.5,1.3,0.3,1.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1630208.png
+Bradley Beal,Phoenix Suns,G,6-4,207,32.0,Florida,17.0,3.3,3.7,1.1,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/203078.png
+Oso Ighodaro,Phoenix Suns,F,7-0,235,22.0,Marquette,4.2,3.6,1.2,0.5,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/1642345.png
+Grayson Allen,Phoenix Suns,G,6-4,198,29.0,Duke,10.6,3.0,2.1,0.8,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1628960.png
+Damion Lee,Phoenix Suns,G-F,6-6,210,32.0,Drexel,3.3,0.8,0.4,0.2,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1627814.png
+Bol Bol,Phoenix Suns,C-F,7-3,220,25.0,Oregon,6.8,2.9,0.6,0.2,0.7,https://cdn.nba.com/headshots/nba/latest/1040x760/1629626.png
+Collin Gillespie,Phoenix Suns,G,6-1,195,26.0,Villanova,5.9,2.4,2.4,0.6,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1631221.png
+TyTy Washington Jr.,Phoenix Suns,G,6-3,195,23.0,Kentucky,2.2,0.8,1.0,0.2,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1631102.png
+Jalen Bridges,Phoenix Suns,F,6-8,225,24.0,Baylor,1.1,0.5,0.0,0.0,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1641779.png
+Cody Martin,Phoenix Suns,F,6-6,205,29.0,Nevada,7.8,4.5,2.3,1.1,0.7,https://cdn.nba.com/headshots/nba/latest/1040x760/1628998.png
+Vasilije Micic,Phoenix Suns,G,6-3,188,31.0,Serbia,7.5,2.4,3.5,0.4,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/203995.png
+Tyus Jones,Phoenix Suns,G,6-1,196,29.0,Duke,10.2,2.4,5.3,0.9,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1626145.png
+Mason Plumlee,Phoenix Suns,F-C,6-10,254,35.0,Duke,4.5,6.1,1.8,0.4,0.6,https://cdn.nba.com/headshots/nba/latest/1040x760/203486.png
+Monté Morris,Phoenix Suns,G,6-2,183,30.0,Iowa State,5.2,1.5,1.6,0.4,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1628420.png
+Kevin Durant,Phoenix Suns,F,6-11,240,36.0,Texas,26.6,6.0,4.2,0.8,1.2,https://cdn.nba.com/headshots/nba/latest/1040x760/201142.png
+Scoot Henderson,Portland Trail Blazers,G,6-3,206,21.0,NBA G League Ignite,12.7,3.0,5.1,1.0,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1630703.png
+Anfernee Simons,Portland Trail Blazers,G,6-3,200,26.0,Edgewater HS (FL),19.3,2.7,4.8,0.9,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1629014.png
+Deandre Ayton,Portland Trail Blazers,C,7-0,252,26.0,Arizona,14.4,10.2,1.6,0.8,1.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1629028.png
+Matisse Thybulle,Portland Trail Blazers,G-F,6-5,201,28.0,Washington,7.5,3.5,1.9,2.2,0.6,https://cdn.nba.com/headshots/nba/latest/1040x760/1629680.png
+Dalano Banton,Portland Trail Blazers,F,6-8,203,25.0,Nebraska,8.3,2.0,2.4,0.6,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/1630625.png
+Deni Avdija,Portland Trail Blazers,F,6-9,240,24.0,Maccabi Tel Aviv,16.9,7.2,3.9,1.0,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/1630166.png
+Jerami Grant,Portland Trail Blazers,F,6-7,210,31.0,Syracuse,14.4,3.5,2.1,0.9,1.0,https://cdn.nba.com/headshots/nba/latest/1040x760/203924.png
+Justin Minaya,Portland Trail Blazers,F,6-5,205,26.0,Providence,0.9,0.5,0.4,0.3,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1631303.png
+Bryce McGowens,Portland Trail Blazers,G,6-6,190,22.0,Nebraska,1.0,0.2,0.2,0.1,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1631121.png
+Shaedon Sharpe,Portland Trail Blazers,G,6-5,208,22.0,Kentucky,18.5,4.5,2.8,0.9,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1631101.png
+Rayan Rupert,Portland Trail Blazers,G-F,6-6,195,21.0,New Zealand Breakers,3.0,1.3,0.5,0.3,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1641712.png
+Donovan Clingan,Portland Trail Blazers,C,7-2,280,21.0,Connecticut,6.5,7.9,1.1,0.5,1.6,https://cdn.nba.com/headshots/nba/latest/1040x760/1642270.png
+Kris Murray,Portland Trail Blazers,F,6-8,216,24.0,Iowa,4.2,2.6,1.0,0.5,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1631200.png
+Sidy Cissoko,Portland Trail Blazers,G,6-6,200,21.0,NBA G League Ignite,1.3,0.6,0.4,0.1,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1631321.png
+Duop Reath,Portland Trail Blazers,C,6-9,245,29.0,Louisiana State,4.2,2.0,0.6,0.3,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1641871.png
+Toumani Camara,Portland Trail Blazers,F,6-7,229,25.0,Dayton,11.3,5.8,2.2,1.5,0.6,https://cdn.nba.com/headshots/nba/latest/1040x760/1641739.png
+Jabari Walker,Portland Trail Blazers,F,6-7,237,22.0,Colorado,5.2,3.5,0.6,0.6,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1631133.png
+Robert Williams III,Portland Trail Blazers,C-F,6-9,249,27.0,Texas A&M,5.8,5.9,1.0,0.6,1.6,https://cdn.nba.com/headshots/nba/latest/1040x760/1629057.png
+Malik Monk,Sacramento Kings,G,6-3,200,27.0,Kentucky,17.2,3.8,5.6,0.9,0.6,https://cdn.nba.com/headshots/nba/latest/1040x760/1628370.png
+Terence Davis,Sacramento Kings,G,6-4,201,28.0,Mississippi,0.0,1.0,1.0,0.0,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1629056.png
+Isaac Jones,Sacramento Kings,F,6-9,245,24.0,Washington State,3.4,1.4,0.3,0.1,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1642403.png
+Doug McDermott,Sacramento Kings,F,6-6,225,33.0,Creighton,3.5,0.5,0.2,0.1,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/203926.png
+Zach LaVine,Sacramento Kings,G,6-5,200,30.0,UCLA,24.0,4.8,4.5,0.9,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/203897.png
+DeMar DeRozan,Sacramento Kings,G-F,6-6,220,35.0,Southern California,22.2,3.9,4.4,0.8,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/201942.png
+Domantas Sabonis,Sacramento Kings,F-C,6-10,240,29.0,Gonzaga,19.1,13.9,6.0,0.7,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1627734.png
+Keegan Murray,Sacramento Kings,F,6-8,225,24.0,Iowa,12.4,6.7,1.4,0.8,0.9,https://cdn.nba.com/headshots/nba/latest/1040x760/1631099.png
+Mason Jones,Sacramento Kings,G,6-4,200,26.0,Arkansas,2.3,0.9,1.1,0.0,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1630222.png
+Jonas Valančiūnas,Sacramento Kings,C,6-11,265,33.0,Lietuvos rytas Vilnius,11.5,8.2,2.2,0.4,0.6,https://cdn.nba.com/headshots/nba/latest/1040x760/202685.png
+Markelle Fultz,Sacramento Kings,G,6-4,209,27.0,Washington,2.9,1.0,1.3,0.5,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1628365.png
+Devin Carter,Sacramento Kings,G,6-2,195,23.0,Providence,3.8,2.1,1.1,0.6,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1642269.png
+Keon Ellis,Sacramento Kings,G,6-4,175,25.0,Alabama,8.3,2.6,1.5,1.5,0.8,https://cdn.nba.com/headshots/nba/latest/1040x760/1631165.png
+Isaiah Crawford,Sacramento Kings,F,6-6,220,23.0,Louisiana Tech,0.9,0.5,0.1,0.1,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1642384.png
+Jake LaRavia,Sacramento Kings,F,6-7,235,23.0,Wake Forest,7.3,4.4,2.8,0.9,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1631222.png
+Trey Lyles,Sacramento Kings,F,6-9,234,29.0,Kentucky,6.5,4.6,1.2,0.6,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1626168.png
+Jae Crowder,Sacramento Kings,F,6-6,235,34.0,Marquette,2.6,2.2,0.7,0.3,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/203109.png
+Keldon Johnson,San Antonio Spurs,F-G,6-5,220,25.0,Kentucky,12.7,4.8,1.6,0.6,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1629640.png
+Victor Wembanyama,San Antonio Spurs,F-C,7-3,235,21.0,Metropolitans 92,24.3,11.0,3.7,1.1,3.8,https://cdn.nba.com/headshots/nba/latest/1040x760/1641705.png
+Chris Paul,San Antonio Spurs,G,6-0,175,40.0,Wake Forest,8.8,3.6,7.4,1.3,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/101108.png
+De'Aaron Fox,San Antonio Spurs,G,6-3,185,27.0,Kentucky,25.0,5.0,6.1,1.5,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1628368.png
+Stephon Castle,San Antonio Spurs,G,6-6,215,20.0,Connecticut,14.7,3.7,4.1,0.9,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1642264.png
+David Duke Jr.,San Antonio Spurs,G,6-4,204,25.0,Providence,2.7,0.8,0.7,0.2,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1630561.png
+Jeremy Sochan,San Antonio Spurs,F,6-8,230,22.0,Baylor,11.4,6.5,2.4,0.8,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/1631110.png
+Jordan McLaughlin,San Antonio Spurs,G,6-0,185,29.0,Southern California,1.9,0.8,0.9,0.4,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1629162.png
+Blake Wesley,San Antonio Spurs,G,6-3,185,22.0,Notre Dame,3.7,1.1,2.0,0.6,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1631104.png
+Bismack Biyombo,San Antonio Spurs,C,6-8,255,32.0,Baloncesto Fuenlabrada,5.1,5.6,1.1,0.6,0.8,https://cdn.nba.com/headshots/nba/latest/1040x760/202687.png
+Malaki Branham,San Antonio Spurs,F,6-4,180,22.0,Ohio State,5.0,1.1,0.8,0.2,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1631103.png
+Devin Vassell,San Antonio Spurs,G-F,6-5,200,24.0,Florida State,16.3,4.0,2.9,1.3,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/1630170.png
+Riley Minix,San Antonio Spurs,F,6-7,230,24.0,Morehead State,0.0,2.0,0.0,0.0,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1642434.png
+Charles Bassey,San Antonio Spurs,C-F,6-10,230,24.0,Western Kentucky,4.4,4.2,0.5,0.4,0.8,https://cdn.nba.com/headshots/nba/latest/1040x760/1629646.png
+Julian Champagnie,San Antonio Spurs,F,6-7,217,24.0,St. John's,9.9,3.9,1.4,0.7,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1630577.png
+Harrison Barnes,San Antonio Spurs,F,6-8,225,33.0,North Carolina,12.3,3.8,1.7,0.5,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/203084.png
+Sandro Mamukelashvili,San Antonio Spurs,F-C,6-9,240,26.0,Seton Hall,6.3,3.1,0.8,0.4,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1630572.png
+Harrison Ingram,San Antonio Spurs,F,6-5,230,22.0,North Carolina,0.8,1.8,0.6,0.6,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1631127.png
+Shai Gilgeous-Alexander,Oklahoma City Thunder,G,6-6,195,26.0,Kentucky,32.7,5.0,6.4,1.7,1.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1628983.png
+Dillon Jones,Oklahoma City Thunder,F,6-5,235,23.0,Weber State,2.5,2.2,1.1,0.3,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1641794.png
+Luguentz Dort,Oklahoma City Thunder,G,6-4,220,26.0,Arizona State,10.1,4.1,1.6,1.1,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/1629652.png
+Jaylin Williams,Oklahoma City Thunder,F,6-9,240,23.0,Arkansas,5.9,5.6,2.6,0.5,0.6,https://cdn.nba.com/headshots/nba/latest/1040x760/1631119.png
+Chet Holmgren,Oklahoma City Thunder,C-F,7-1,208,23.0,Gonzaga,15.0,8.0,2.0,0.7,2.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1631096.png
+Jalen Williams,Oklahoma City Thunder,G-F,6-5,211,24.0,Santa Clara,21.6,5.3,5.1,1.6,0.7,https://cdn.nba.com/headshots/nba/latest/1040x760/1631114.png
+Alex Caruso,Oklahoma City Thunder,G,6-5,186,31.0,Texas A&M,7.1,2.9,2.5,1.6,0.6,https://cdn.nba.com/headshots/nba/latest/1040x760/1627936.png
+Isaiah Joe,Oklahoma City Thunder,G,6-3,165,25.0,Arkansas,10.2,2.6,1.6,0.6,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1630198.png
+Ousmane Dieng,Oklahoma City Thunder,F,6-9,185,22.0,New Zealand Breakers,3.8,2.2,0.8,0.5,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1631172.png
+Adam Flagler,Oklahoma City Thunder,G,6-3,180,25.0,Baylor,1.8,0.7,0.3,0.2,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1641745.png
+Branden Carlson,Oklahoma City Thunder,C,7-0,220,26.0,Utah,3.8,1.7,0.4,0.2,0.7,https://cdn.nba.com/headshots/nba/latest/1040x760/1642382.png
+Aaron Wiggins,Oklahoma City Thunder,G,6-5,190,26.0,Maryland,12.0,3.9,1.8,0.8,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1630598.png
+Cason Wallace,Oklahoma City Thunder,G,6-3,195,21.0,Kentucky,8.4,3.4,2.5,1.8,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/1641717.png
+Ajay Mitchell,Oklahoma City Thunder,G,6-5,190,23.0,California-Santa Barbara,6.5,1.9,1.8,0.7,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1642349.png
+Kenrich Williams,Oklahoma City Thunder,G-F,6-6,210,30.0,TCU,6.3,3.5,1.4,0.6,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1629026.png
+Nikola Topić,Oklahoma City Thunder,G,6-6,200,19.0,Crvena zvezda,0.0,0.0,0.0,0.0,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1642260.png
+Isaiah Hartenstein,Oklahoma City Thunder,C-F,7-0,250,27.0,Zalgiris,11.2,10.7,3.8,0.8,1.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1628392.png
+Alex Ducas,Oklahoma City Thunder,G,6-7,220,24.0,St. Mary's (CA),1.7,1.2,0.2,0.2,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1642505.png
+A.J. Lawson,Toronto Raptors,G,6-6,179,24.0,South Carolina,9.1,3.3,1.2,0.5,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1630639.png
+Gradey Dick,Toronto Raptors,G-F,6-6,200,21.0,Kansas,14.4,3.6,1.8,0.9,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1641711.png
+Jonathan Mogbo,Toronto Raptors,F,6-9,225,23.0,San Francisco,6.2,4.9,2.3,0.9,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/1642367.png
+Brandon Ingram,Toronto Raptors,F,6-8,190,27.0,Duke,22.2,5.6,5.2,0.9,0.6,https://cdn.nba.com/headshots/nba/latest/1040x760/1627742.png
+Scottie Barnes,Toronto Raptors,F-G,6-7,237,23.0,Florida State,19.3,7.7,5.8,1.4,1.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1630567.png
+Immanuel Quickley,Toronto Raptors,G,6-2,190,26.0,Kentucky,17.1,3.5,5.8,0.7,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1630193.png
+Jared Rhoden,Toronto Raptors,G,6-5,210,25.0,Seton Hall,1.0,1.0,0.5,0.2,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1631197.png
+RJ Barrett,Toronto Raptors,F-G,6-6,214,25.0,Duke,21.1,6.3,5.4,0.8,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1629628.png
+Colin Castleton,Toronto Raptors,C,6-10,250,25.0,Florida,1.4,0.9,0.0,0.1,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1630658.png
+Ja'Kobe Walter,Toronto Raptors,G,6-5,180,20.0,Baylor,8.6,3.1,1.6,0.8,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1642266.png
+Garrett Temple,Toronto Raptors,G-F,6-5,195,39.0,Louisiana State,1.9,1.0,1.1,0.6,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/202066.png
+Jakob Poeltl,Toronto Raptors,C,7-0,260,29.0,Utah,14.5,9.6,2.8,1.2,1.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1627751.png
+Ulrich Chomche,Toronto Raptors,C,6-11,235,19.0,NBA Global Academy,0.7,1.1,0.3,0.0,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1642279.png
+Jamal Shead,Toronto Raptors,G,6-1,200,22.0,Houston,7.1,1.5,4.2,0.8,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1642347.png
+Chris Boucher,Toronto Raptors,F,6-9,200,32.0,Oregon,10.0,4.5,0.7,0.5,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/1628449.png
+Ochai Agbaji,Toronto Raptors,G,6-5,215,25.0,Kansas,10.4,3.8,1.5,0.9,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/1630534.png
+Jamison Battle,Toronto Raptors,F,6-7,220,24.0,Ohio State,7.1,2.7,0.9,0.3,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1642419.png
+Jordan Clarkson,Utah Jazz,G,6-3,194,33.0,Missouri,16.2,3.2,3.7,0.8,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/203903.png
+Taylor Hendricks,Utah Jazz,F,6-9,215,21.0,Central Florida,4.7,5.0,0.7,1.7,1.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1641707.png
+Collin Sexton,Utah Jazz,G,6-3,190,26.0,Alabama,18.4,2.7,4.2,0.7,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1629012.png
+Keyonte George,Utah Jazz,G,6-4,185,21.0,Baylor,16.8,3.8,5.6,0.7,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1641718.png
+Cody Williams,Utah Jazz,F,6-7,190,20.0,Colorado,4.6,2.3,1.2,0.5,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1642262.png
+Jaden Springer,Utah Jazz,G,6-4,202,22.0,Tennessee,1.7,0.9,0.4,0.5,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1630531.png
+Isaiah Collier,Utah Jazz,G,6-3,210,20.0,Southern California,8.7,3.3,6.3,0.9,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1642268.png
+Elijah Harkless,Utah Jazz,G,6-3,195,25.0,UNLV,3.2,2.1,0.8,1.0,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1641989.png
+Svi Mykhailiuk,Utah Jazz,G-F,6-7,205,28.0,Kansas,8.8,2.4,2.0,0.5,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1629004.png
+John Collins,Utah Jazz,F-C,6-9,226,27.0,Wake Forest,19.0,8.2,2.0,1.0,1.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1628381.png
+Kyle Filipowski,Utah Jazz,C,6-11,250,21.0,Duke,9.6,6.1,1.9,0.7,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1642271.png
+Lauri Markkanen,Utah Jazz,F-C,7-0,240,28.0,Arizona,19.0,5.9,1.5,0.7,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1628374.png
+Walker Kessler,Utah Jazz,C,7-0,245,23.0,Auburn,11.1,12.2,1.7,0.6,2.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1631117.png
+Micah Potter,Utah Jazz,C,6-9,248,27.0,Wisconsin,4.3,4.3,0.8,0.4,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1630695.png
+Brice Sensabaugh,Utah Jazz,F,6-5,235,21.0,Ohio State,10.9,3.0,1.5,0.6,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1641729.png
+Johnny Juzang,Utah Jazz,G,6-5,226,24.0,UCLA,8.9,2.9,1.1,0.6,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1630548.png
+Oscar Tshiebwe,Utah Jazz,F-C,6-8,255,25.0,Kentucky,7.6,8.7,0.6,0.9,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1631131.png
+KJ Martin,Utah Jazz,F,6-6,215,24.0,IMG Academy (FL),6.4,3.0,0.8,0.5,0.7,https://cdn.nba.com/headshots/nba/latest/1040x760/1630231.png
+Zyon Pullin,Memphis Grizzlies,G,6-4,206,24.0,Florida,0.0,0.0,0.0,0.0,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1642389.png
+Jaylen Wells,Memphis Grizzlies,F,6-8,,21.0,Washington State,10.4,3.4,1.7,0.6,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1642377.png
+Scotty Pippen Jr.,Memphis Grizzlies,G,6-1,170,24.0,Vanderbilt,9.9,3.3,4.4,1.3,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1630590.png
+Kentavious Caldwell-Pope,Memphis Grizzlies,G,6-5,204,32.0,Georgia,8.7,2.2,1.8,1.3,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/203484.png
+Vince Williams Jr.,Memphis Grizzlies,G,6-4,205,24.0,Virginia Commonwealth,6.6,3.6,2.0,0.4,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1631246.png
+Santi Aldama,Memphis Grizzlies,F-C,7-0,215,24.0,Loyola-Maryland,12.5,6.4,2.9,0.8,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1630583.png
+Lamar Stevens,Memphis Grizzlies,F,6-7,230,27.0,Penn State,4.4,2.2,0.5,0.3,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1630205.png
+Luke Kennard,Memphis Grizzlies,G,6-5,206,29.0,Duke,8.9,2.8,3.3,0.8,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1628379.png
+Ja Morant,Memphis Grizzlies,G,6-2,174,25.0,Murray State,23.2,4.1,7.3,1.2,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1629630.png
+Jaren Jackson Jr.,Memphis Grizzlies,F-C,6-10,242,25.0,Michigan State,22.2,5.6,2.0,1.2,1.5,https://cdn.nba.com/headshots/nba/latest/1040x760/1628991.png
+Zach Edey,Memphis Grizzlies,C,7-4,305,23.0,Purdue,9.2,8.3,1.0,0.5,1.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1641744.png
+Brandon Clarke,Memphis Grizzlies,F,6-8,215,28.0,Gonzaga,8.3,5.1,1.0,0.8,0.6,https://cdn.nba.com/headshots/nba/latest/1040x760/1629634.png
+Yuki Kawamura,Memphis Grizzlies,G,5-8,159,24.0,Yokohama B-Corsairs (Japan),1.6,0.5,0.9,0.1,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1642530.png
+Cam Spencer,Memphis Grizzlies,G,6-4,205,25.0,Connecticut,4.2,1.2,1.4,0.4,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1642285.png
+Jay Huff,Memphis Grizzlies,C,7-1,240,27.0,Virginia,6.9,2.0,0.6,0.2,0.9,https://cdn.nba.com/headshots/nba/latest/1040x760/1630643.png
+Marvin Bagley III,Memphis Grizzlies,F,6-10,235,26.0,Duke,4.9,2.9,0.4,0.4,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1628963.png
+GG Jackson,Memphis Grizzlies,F,6-9,210,20.0,South Carolina,7.2,3.2,1.0,0.4,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1641713.png
+John Konchar,Memphis Grizzlies,G,6-5,210,29.0,Indiana-Purdue Fort Wayne,2.4,3.3,0.9,0.7,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1629723.png
+Cole Anthony,Memphis Grizzlies,G,6-2,185,25.0,North Carolina,9.4,3.0,2.9,0.7,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/1630175.png
+Bilal Coulibaly,Washington Wizards,G,6-8,195,20.0,Metropolitans 92,12.3,5.0,3.4,1.3,0.7,https://cdn.nba.com/headshots/nba/latest/1040x760/1641731.png
+Tristan Vukcevic,Washington Wizards,F,7-0,220,22.0,Real Madrid,9.4,3.7,1.1,0.3,0.7,https://cdn.nba.com/headshots/nba/latest/1040x760/1641774.png
+Colby Jones,Washington Wizards,G,6-6,207,23.0,Xavier,1.1,1.0,0.3,0.2,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1641732.png
+Jaylen Martin,Washington Wizards,G,6-6,216,21.0,Overtime Elite,1.0,0.0,0.0,0.0,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1641798.png
+AJ Johnson,Washington Wizards,G,6-5,160,20.0,Illawarra,2.9,1.0,1.0,0.1,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1642358.png
+Bub Carrington,Washington Wizards,G,6-4,190,19.0,Pittsburgh,9.8,4.2,4.4,0.7,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1642267.png
+Justin Champagnie,Washington Wizards,G-F,6-6,206,24.0,Pittsburgh,8.8,5.7,1.0,1.0,0.6,https://cdn.nba.com/headshots/nba/latest/1040x760/1630551.png
+Jordan Poole,Washington Wizards,G,6-4,194,26.0,Michigan,20.5,3.0,4.5,1.3,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1629673.png
+Saddiq Bey,Washington Wizards,G-F,6-7,215,26.0,Villanova,0.0,0.0,0.0,0.0,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1630180.png
+Malcolm Brogdon,Washington Wizards,G,6-4,229,32.0,Virginia,12.7,3.8,4.1,0.5,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1627763.png
+Anthony Gill,Washington Wizards,F,6-8,230,32.0,Virginia,2.5,1.3,0.3,0.2,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1630264.png
+Kyshawn George,Washington Wizards,F,6-8,200,21.0,Miami,8.7,4.2,2.5,1.0,0.7,https://cdn.nba.com/headshots/nba/latest/1040x760/1642273.png
+Alex Sarr,Washington Wizards,C,7-0,205,20.0,Washington Wizards,13.0,6.5,2.4,0.7,1.5,https://cdn.nba.com/headshots/nba/latest/1040x760/1642259.png
+JT Thor,Washington Wizards,F,6-9,203,22.0,Auburn,3.1,0.7,0.1,0.2,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1630550.png
+Richaun Holmes,Washington Wizards,F,6-9,235,31.0,Bowling Green,7.4,5.7,1.4,0.3,0.7,https://cdn.nba.com/headshots/nba/latest/1040x760/1626158.png
+Corey Kispert,Washington Wizards,F,6-6,224,26.0,Gonzaga,11.6,3.0,1.7,0.4,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1630557.png
+Khris Middleton,Washington Wizards,F,6-7,222,33.0,Texas A&M,12.6,3.7,4.4,0.7,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/203114.png
+Marcus Smart,Washington Wizards,G,6-3,220,31.0,Oklahoma State,8.7,2.3,3.7,1.2,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/203935.png
+Jalen Duren,Detroit Pistons,C,6-10,250,21.0,Memphis,11.8,10.3,2.7,0.7,1.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1631105.png
+Ronald Holland II,Detroit Pistons,F,6-8,206,19.0,NBA G League Ignite,6.4,2.7,1.0,0.6,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1641842.png
+Cade Cunningham,Detroit Pistons,G,6-6,220,23.0,Oklahoma State,26.1,6.1,9.1,1.0,0.8,https://cdn.nba.com/headshots/nba/latest/1040x760/1630595.png
+Malik Beasley,Detroit Pistons,G,6-4,187,28.0,Florida State,16.3,2.6,1.7,0.9,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1627736.png
+Paul Reed,Detroit Pistons,F,6-9,210,26.0,DePaul,4.1,2.7,1.0,0.9,0.6,https://cdn.nba.com/headshots/nba/latest/1040x760/1630194.png
+Tim Hardaway Jr.,Detroit Pistons,G-F,6-5,205,33.0,Michigan,11.0,2.4,1.6,0.5,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/203501.png
+Ausar Thompson,Detroit Pistons,G-F,6-6,205,22.0,Overtime Elite,10.1,5.1,2.3,1.7,0.7,https://cdn.nba.com/headshots/nba/latest/1040x760/1641709.png
+Tobias Harris,Detroit Pistons,F,6-8,226,32.0,Tennessee,13.7,5.9,2.2,1.0,0.8,https://cdn.nba.com/headshots/nba/latest/1040x760/202699.png
+Ron Harper Jr.,Detroit Pistons,G-F,6-4,233,25.0,Rutgers,4.0,7.0,2.0,0.0,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1631199.png
+Dennis Schröder,Detroit Pistons,G,6-1,175,31.0,Braunschweig,18.4,3.0,6.6,1.1,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/203471.png
+Simone Fontecchio,Detroit Pistons,F,6-7,209,29.0,Baskonia,5.9,2.9,0.9,0.4,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1631323.png
+Jaden Ivey,Detroit Pistons,G,6-4,195,23.0,Purdue,17.6,4.1,4.0,0.9,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1631093.png
+Daniss Jenkins,Detroit Pistons,G,6-3,165,23.0,St. John's,1.0,0.3,0.4,0.0,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1642450.png
+Marcus Sasser,Detroit Pistons,G,6-2,195,24.0,Houston,6.6,1.2,2.3,0.6,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1631204.png
+Isaiah Stewart,Detroit Pistons,F-C,6-8,250,24.0,Washington,6.0,5.5,1.7,0.4,1.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1630191.png
+Bobi Klintman,Detroit Pistons,F,6-9,225,22.0,Wake Forest,1.9,0.9,0.9,0.2,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1641752.png
+Tolu Smith,Detroit Pistons,F,6-11,,24.0,Mississippi State,14.0,8.0,0.0,0.0,0.0,https://cdn.nba.com/headshots/nba/latest/1040x760/1642449.png
+Lindy Waters III,Detroit Pistons,F,6-6,210,27.0,Oklahoma State,5.5,2.5,1.1,0.6,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1630322.png
+Miles Bridges,Charlotte Hornets,F,6-7,225,27.0,Michigan State,20.3,7.5,3.9,0.7,0.7,https://cdn.nba.com/headshots/nba/latest/1040x760/1628970.png
+LaMelo Ball,Charlotte Hornets,G,6-7,180,23.0,Illawarra,25.2,4.9,7.4,1.1,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1630163.png
+Grant Williams,Charlotte Hornets,F,6-6,236,26.0,Tennessee,10.4,5.1,2.3,1.1,0.8,https://cdn.nba.com/headshots/nba/latest/1040x760/1629684.png
+DaQuan Jeffries,Charlotte Hornets,G-F,6-5,222,27.0,Tulsa,6.7,2.9,1.1,0.6,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/1629610.png
+Mark Williams,Charlotte Hornets,C,7-0,240,23.0,Duke,15.2,10.2,2.5,0.7,1.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1631109.png
+Damion Baugh,Charlotte Hornets,G,6-4,194,24.0,TCU,7.3,3.3,3.7,1.0,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1641878.png
+Nick Smith Jr.,Charlotte Hornets,G,6-2,185,21.0,Arkansas,9.8,2.1,2.4,0.3,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/1641733.png
+Wendell Moore Jr.,Charlotte Hornets,G,6-5,215,23.0,Duke,3.2,2.2,1.2,0.5,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1631111.png
+Josh Green,Charlotte Hornets,G,6-5,200,24.0,Arizona,7.4,2.5,1.6,1.1,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1630182.png
+Jusuf Nurkić,Charlotte Hornets,C,7-0,290,30.0,Cedevita,8.6,9.2,1.9,0.9,0.6,https://cdn.nba.com/headshots/nba/latest/1040x760/203994.png
+Josh Okogie,Charlotte Hornets,G,6-4,213,26.0,Georgia Tech,6.0,2.9,0.6,0.8,0.4,https://cdn.nba.com/headshots/nba/latest/1040x760/1629006.png
+Moussa Diabaté,Charlotte Hornets,F,6-9,210,23.0,Michigan,5.7,6.2,0.8,0.6,0.6,https://cdn.nba.com/headshots/nba/latest/1040x760/1631217.png
+Tre Mann,Charlotte Hornets,G,6-3,178,24.0,Florida,14.1,2.9,3.0,0.5,0.3,https://cdn.nba.com/headshots/nba/latest/1040x760/1630544.png
+Brandon Miller,Charlotte Hornets,F,6-7,200,22.0,Alabama,21.0,4.9,3.6,1.1,0.7,https://cdn.nba.com/headshots/nba/latest/1040x760/1641706.png
+KJ Simpson,Charlotte Hornets,G,6-0,189,22.0,Colorado,7.8,3.0,3.1,0.9,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1642354.png
+Seth Curry,Charlotte Hornets,G,6-1,185,34.0,Duke,6.5,1.7,0.9,0.4,0.1,https://cdn.nba.com/headshots/nba/latest/1040x760/203552.png
+Tidjane Salaün,Charlotte Hornets,F,6-8,207,19.0,Cholet,5.9,4.7,1.2,0.5,0.2,https://cdn.nba.com/headshots/nba/latest/1040x760/1642275.png
+Taj Gibson,Charlotte Hornets,F,6-9,232,40.0,Southern California,2.9,3.2,0.6,0.2,0.5,https://cdn.nba.com/headshots/nba/latest/1040x760/201959.png
