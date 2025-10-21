@@ -4,6 +4,8 @@ A **Power BI dashboard** that visualizes NBA player info, statistics, and shot c
 
 [📊 View the NBA Dashboard](https://app.powerbi.com/groups/me/reports/bd727462-cf4a-4c0b-bd2f-318d6848c676/8fb7dd7fdc4512bbe413?experience=power-bi)
 
+![Dashboard Demo](dashboard_demo.gif)
+
 ## 📊 Features
 
 - **Player Cards**: Displays player profile information including name, image, position, height, weight, and key stats.  
